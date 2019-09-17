@@ -2,8 +2,6 @@
 
 Docker is a lightweight service, which use OS-level virtualization to deliver software in packages called containers. It allows consistency and convenience on running software with reliable behaviour.
 
-Below, we will explain several 
-
 ## Installing docker
 
 To run Docker, you need to setup the Docker engine. Please refer to the [documentation](https://docs.docker.com/install/) to how to install the free, community version.
