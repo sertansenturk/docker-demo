@@ -1,0 +1,2 @@
+essentia==2.1b5
+librosa==0.7.0
