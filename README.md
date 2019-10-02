@@ -8,7 +8,7 @@ To run Docker, you need to setup the Docker engine. Please refer to the [documen
 
 ## Running docker images from Docker hub
 
-One of the biggest advantages of Docker is the size of the comunity and the amount offically supported images. 
+One of the biggest advantages of Docker is the size of the community and the amount offically supported images. 
 
 For example, **Python Software Foundation** maintains their own official images. If you would like to run an interactive Python 3.7 shell, all you have to do is running the command below in your terminal:
 
